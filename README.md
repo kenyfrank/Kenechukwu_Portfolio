@@ -31,7 +31,3 @@ Software developer and Data Scientist, with 4 years, and 1 year of experience re
 * https://nlng.estateandhomes.ng/
 * https://abiairs.gov.ng/
 * http://irs.en.gov.ng/
-
-# RESUME
-
-xfun::embed_file("/images/CV%20-%20KENECHUKWU%20ILOEJE%20FRANCIS%20-%20Software_v5.1.pdf")
