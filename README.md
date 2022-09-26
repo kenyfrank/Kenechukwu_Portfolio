@@ -17,7 +17,16 @@ I am a Software developer and Data Engineer, dedicated and adaptable team player
 * CI/CD: Jenkins
 * Build Tools and Others: Gradle, Maven, DevOps, Jira, OAuth2.0, Git, Bitbucket, BIRT(Reporting)
 
+# DATA SCIENCE PROJECTS
 
 # Project 1: SQL Query automation
 * Create a functional Relational Database
 * Applies CRUD operations
+
+# SOFTWARE DEVELOPMENT PROJECTS
+
+* https://premisesqr.com
+* https://nimccbs.gov.ng/
+* https://nlng.estateandhomes.ng/
+* https://abiairs.gov.ng/
+* http://irs.en.gov.ng/
