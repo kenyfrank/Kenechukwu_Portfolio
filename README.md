@@ -1,12 +1,13 @@
 # Kenechukwu Iloeje's Portfolio
-Software Developer, Data Science Graduate Student.
+Software Developer, Data Scientist.
 
 # About me
-I am a Software developer and Data Engineer, dedicated and adaptable team player with extensive knowledge of Spring Framework, and software engineering concepts and a creative aptitude for new product development. Oracle Certified Professional Java Programmer (OCPJP). Interested in an organization that provides an opportunity to capitalize my technical skills and ability in diversifying my technology stack and also contribute to the productivity and goals of the organization.
+Software developer and Data Scientist, with 4 years, and 1 year of experience respectively in Java, Python, SQL and JavaScript. A dedicated and adaptable team player with extensive knowledge of software engineering concepts and a creative aptitude for new product development, data mining, pipeline development, model deployment and data analysis. Oracle Certified Professional Java Programmer (OCPJP). Interested in an organization that provides an opportunity to capitalize my technical skills and ability in diversifying my technology stack and also contribute to the productivity and goals of the organization.
 
 ![](/images/kene_profile.jpg)
 
 # Skills
+* Core: Web application development, Data Visualization,Data Pipeline, Data Structures and Algorithm
 * Programming Languages: Python, Java, TypeScript
 * Python Libraries and Data Analytics tools: NumPy, Matplotlib, D3.js, Tableau
 * Java Framework and Technologies: Spring Boot, Spring Security, JDBC, Hibernate, JPA, Ninja Framework, Android, Apache Kafka, Redis, Java Messaging Service (JMS), Unit and Integration Testing.
@@ -30,3 +31,4 @@ I am a Software developer and Data Engineer, dedicated and adaptable team player
 * https://nlng.estateandhomes.ng/
 * https://abiairs.gov.ng/
 * http://irs.en.gov.ng/
+
