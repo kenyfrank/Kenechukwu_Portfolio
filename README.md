@@ -24,6 +24,12 @@ Software developer and Data Scientist, with 4 years, and 1 year of experience re
 * Create a functional Relational Database
 * Applies CRUD operations
 
+# Project 2: NLP - Conversational Chatbot with Memory
+* Hugging face Transformers
+* Natural Language Toolkit
+* PyTorch
+* PostgreSQL
+
 # SOFTWARE DEVELOPMENT PROJECTS
 
 * https://premisesqr.com
